@@ -1,0 +1,3 @@
+*.py[co]
+*.DS_*
+.cache

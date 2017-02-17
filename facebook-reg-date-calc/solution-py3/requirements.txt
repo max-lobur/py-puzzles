@@ -1,0 +1,4 @@
+python-dateutil
+git+https://github.com/mobolic/facebook-sdk.git
+pytest
+
